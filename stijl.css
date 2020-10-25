@@ -1,61 +1,59 @@
 
-h1 {
-	color: red;
+
+ nav{
+    margin: 400 px;
 }
 
- h2 { color: green;
-}
 
 header{
-	background-color: #999;
-	text-align: center;
+	
+    
+    
 }
 
 
+	
 
-#afbeelding {
-	background-color: grey;
+	
+
+
+
+
+html{
+color: #ADD8E6;
+background-color: #8B0000
+    
+    
 }
 
-.blokken1{
-	background-color: grey;
-	float: left; 
-	width: 200px;
-	height: 200px; 
+	
+body {
+	height: 60 px;
+    width: 50 px;
+   
+}
+	
+
+article {
+	
+    
+    
+
 }
 
-.blokken2{
-	background-color: red;
-	float: left; 
-	width: 200px;
-	height: 200px;
-	position: absolute;
-	left: 200px;
-	top: 400px;
+    
+	
+
+#fname}
+
 }
-
-.blokken3{
-	background-color: red;
-	float: left; 
-	width: 200px;
-	height: 200px;
-	position: absolute;
-	left: 300px;
-	top: 400px;
+#login{
+	
 }
-
-
-article{
-	float: clear;
-}
-
 
 
 
 footer{
-	position: absolute;
-	bottom: 0;
-	background-color: grey;
-	width: 100%
+	
 }
-
+	
